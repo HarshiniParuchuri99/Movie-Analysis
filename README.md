@@ -12,7 +12,7 @@ This project explores Hollywood movie profitability using exploratory data analy
 ## Tools and Technologies
 - Python
 - Pandas
-- Matplotlib and Seaborn (if used in the notebook)
+- Matplotlib and Seaborn 
 - Google Colab
 - Jupyter Notebook
 
@@ -26,7 +26,7 @@ The dataset contains Hollywood movie information, including genre, lead studio, 
 - Profitability had only a weak relationship with worldwide gross in this dataset.
 
 ## Project Files
-- `hollywood-movie-profitability-analysis.ipynb` — notebook containing the analysis and visualisations.
+- `Hollywood_Analysis.ipynb` — notebook containing the analysis and visualisations.
 - `hollywood_movies.csv` — dataset used for the analysis.
 
 ## How to Explore
